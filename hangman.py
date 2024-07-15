@@ -1,5 +1,8 @@
 import random
 
+print("hello change")
+
+
 def hide_word(word):
     word_len = len(word) - 1
     index1 = random.randint(0, word_len)
